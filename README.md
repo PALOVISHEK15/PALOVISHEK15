@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ovishek Pal</h1>
-<h3 align="center">Cybersecurity Engineer | VAPT | Penetration Testing | Python & Bash Scripting</h3>
+<h3 align="center">☠💻🔑🛡Cybersecurity Engineer | 💼 1 YoE | 📍 Dhaka, Bangladesh</h3>
 
 <img align="right" alt="Cybersecurity Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> 
